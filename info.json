@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "76da27197d05207d428a562e1020697adb99b4d9",
+    "author": "Zebulun Arendsee <arendsee@iastate.edu>",
+    "time": "2020-07-14 22:06:40",
+    "files": 2,
+    "merge": false,
+    "message": "Fix #4 - add cookies to bypass google virus scan\n"
+  },
+  "remote": "https://github.com/ropensci/onekp",
+  "pkg": "onekp"
+}
