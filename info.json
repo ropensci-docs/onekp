@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "6d9f0241194c0cb5d4e1c6422c0444d0d343e76e",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2023-04-09 00:39:20",
+    "files": 1,
+    "merge": false,
+    "message": "Typo"
+  },
+  "repo": "https://github.com/ropensci/onekp",
+  "pkg": "onekp"
+}
